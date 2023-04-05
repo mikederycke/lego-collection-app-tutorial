@@ -1,0 +1,18 @@
+[
+  {
+    "setId": 1,
+    "name": "Millennium Falcon",
+    "yearReleased": 2017,
+    "parts": 7541,
+    "complete": true,
+    "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt892f38a4fd55edeb/75257.jpg"
+  },
+  {
+    "setId": 2,
+    "name": "Death Star",
+    "yearReleased": 2016,
+    "parts": 4016,
+    "complete": false,
+    "imageUrl": "https://cdn.rebrickable.com/media/thumbs/sets/75159-1/34107.jpg/1000x800p.jpg"
+  }
+]
